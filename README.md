@@ -2,7 +2,7 @@
 
 RESTful API sederhana menggunakan PHP, konsep MVC & PSR-4 Autoloading Standard,
 
-masih tahap pengembangan, belum ada Authentication, dll :D
+masih tahap pengembangan, belum ada Authentication, API Key, Hash Token, dll :D
 
 ## fitur yang sudah ada
 1. Routing
