@@ -9,22 +9,27 @@ test menggunakan Postman [https://www.getpostman.com/]
 
 #### Semua Artikel
 Endpoint = http://localhost/api/public/artikel
+
 Method = GET
 
 #### 1 Artikel
 Endpoint = http://localhost/api/public/artikel/{id}
+
 Method = GET
 
 #### Tambah Artikel Baru
 Endpoint = http://localhost/api/public/artikel
+
 Method = POST
 
 #### Ubah Artikel
 Endpoint = http://localhost/api/public/artikel/{id}
+
 Method = PUT
 
 #### Hapus Artikel
 Endpoint = http://localhost/api/public/artikel/{id}
+
 Method = DELETE
 
 
