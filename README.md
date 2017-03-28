@@ -41,6 +41,7 @@ Endpoint = http://localhost/api/public/artikel/{id}
 
 Method = DELETE
 
+___
 
 ### WebHade Creative Free Course
 
