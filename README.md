@@ -1,7 +1,16 @@
 # Belajar Membuat RESTful API dengan PHP
 
 RESTful API sederhana menggunakan PHP, konsep MVC & PSR-4 Autoloading Standard,
-masih tahap pengembangan, belum ditambah Authentication
+
+masih tahap pengembangan, belum ada Authentication, dll :D
+
+## fitur yang sudah ada
+1. Routing
+2. Request Method Handler (GET, POST, PUT, DELETE)
+3. Http Response Code Handler
+4. JSON Output (View)
+5. PDO Integration (Model)
+6. PSR-4 Autoloading Standard (Controller)
 
 ## Contoh penggunaan API
 
